@@ -1,0 +1,16 @@
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\bin\Debug\net5.0\SystemOfBankAccount.exe
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\bin\Debug\net5.0\SystemOfBankAccount.deps.json
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\bin\Debug\net5.0\SystemOfBankAccount.runtimeconfig.json
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\bin\Debug\net5.0\SystemOfBankAccount.runtimeconfig.dev.json
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\bin\Debug\net5.0\SystemOfBankAccount.dll
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\bin\Debug\net5.0\ref\SystemOfBankAccount.dll
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\bin\Debug\net5.0\SystemOfBankAccount.pdb
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\obj\Debug\net5.0\SystemOfBankAccount.csproj.AssemblyReference.cache
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\obj\Debug\net5.0\SystemOfBankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\obj\Debug\net5.0\SystemOfBankAccount.AssemblyInfoInputs.cache
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\obj\Debug\net5.0\SystemOfBankAccount.AssemblyInfo.cs
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\obj\Debug\net5.0\SystemOfBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\obj\Debug\net5.0\SystemOfBankAccount.dll
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\obj\Debug\net5.0\ref\SystemOfBankAccount.dll
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\obj\Debug\net5.0\SystemOfBankAccount.pdb
+C:\Users\student\Source\Repos\ConsoleApp7\SystemOfBankAccounts\obj\Debug\net5.0\SystemOfBankAccount.genruntimeconfig.cache
